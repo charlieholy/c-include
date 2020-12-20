@@ -1,0 +1,2 @@
+Q Linux 查看g++ 默认include路径
+A `g++ -print-prog-name=cc1plus` -v
